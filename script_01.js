@@ -10,3 +10,5 @@
 
 // Zeilen-Kommentar
 
+// console.log("Hello");
+// console.log(firstName);
